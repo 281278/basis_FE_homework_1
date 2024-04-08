@@ -1,0 +1,42 @@
+h1{
+    width: 400px;
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+}
+h2{
+    width: 400px;
+    font-size: 15px;
+    color: blue;
+    text-align: center;
+    }
+
+p{
+    width: 400px;
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 30px;
+}
+
+.Markierung1
+{
+color:red;
+font-weight: bold;
+
+
+}
+.Markierung2{
+    color: blue; 
+    font-style: italic;
+}
+
+    
+
+
+
+
+
+
+
+
+
